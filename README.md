@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=DAE5F5&height=170&section=header&text=👋&nbsp;HELLO!&nbsp;👩🏻‍💻&fontSize=70&fontColor=303D4E&animation=twinkling)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 &nbsp;Tech Stack&nbsp; 📚</h3>
 <h4 align="center"> Techs that I've used at least once. </h4>
 
 <p align="center">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Mssql-CC2917?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>&nbsp;
 </p>
 
-<h3 align="center"> 👩🏻‍💻 ARAM.YOON 👩🏻‍💻 </h3>
+<h3 align="center"> 👩🏻‍💻 &nbsp;ARAM.YOON&nbsp; 👩🏻‍💻 </h3>
 <p align="center">
   <a href="mailto:aryooon33@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aryooon33@gmail.com"/></a>
 </p>
