@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
 </p>
-<h4 align="center"> 🛠 &nbsp;Framework & Tools &nbsp;🛠 </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>&nbsp;
