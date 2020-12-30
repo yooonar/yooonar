@@ -17,6 +17,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/nginx-269539?style=flat-square&logo=nginx&logoColor=white"/>&nbsp;
+<br />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
