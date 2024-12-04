@@ -3,6 +3,9 @@
 <h3 align="center">📚 &nbsp;Tech Stack&nbsp; 📚</h3>
 <h4 align="center"> Techs that I've used at least once. </h4>
 
+<!--
+https://ileriayo.github.io/markdown-badges/
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/.NET_Core-6d409d?style=flat-square&logo=dotnet&logoColor=white"/>&nbsp;
