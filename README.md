@@ -36,9 +36,9 @@
 <br />
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-DD001C?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Mssql-CC2917?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-DD001C?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
 </p>
 
 <h3 align="center"> 👩🏻‍💻 &nbsp;ARAM.YOON&nbsp; 👩🏻‍💻 </h3>
