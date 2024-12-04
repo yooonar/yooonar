@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"/>&nbsp;
+  <!--<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>&nbsp;-->
   <img src="https://img.shields.io/badge/nginx-269539?style=flat-square&logo=nginx&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;
 <br />
